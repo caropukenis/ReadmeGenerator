@@ -5,8 +5,11 @@ function questions() {
   return inquirer
     .prompt([
       /* Pass your questions in here */
-      {},
-      {},
+      {type: "input", message: "What is the title for your project?", name: "title"},
+      {type: "input", message: "What is the description of your project?", name: "description"},
+      {type: "list", message: "What licence would you like to use?", name: "licence", choices: ["MIT", "ISC"]},
+      {type: "input", message: "What is your username on GitHub?", name: "gitHub"},
+      {type: "input", message: "what is your email address?", name: "email"},
     ])
     .then((answers) => {
       // Use user feedback for... whatever!!
