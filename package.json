@@ -1,0 +1,19 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Read Me generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caropukenis/ReadmeGenerator.git"
+  },
+  "author": "Caroline Pukenis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caropukenis/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/caropukenis/ReadmeGenerator#readme"
+}
