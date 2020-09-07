@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caropukenis/ReadmeGenerator/issues"
   },
-  "homepage": "https://github.com/caropukenis/ReadmeGenerator#readme"
+  "homepage": "https://github.com/caropukenis/ReadmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
