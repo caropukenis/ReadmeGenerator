@@ -33,13 +33,7 @@ inquirer.prompt([
     name: "contributors",
   },
   {
-    type: "inout",
-    message:
-      "Do you have any websites or files you would like to list as research references?",
-    name: "research",
-  },
-  {
-    type: "inout",
+    type: "input",
     message:
       "Please list any instructions how to test your project, if none, write none.",
     name: "tests",
@@ -58,12 +52,9 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-  inquirer.prompt.then((answers) => {
-    const response = generateMarkdown(answers);
-    console.log(answers);
+  inquirer.prompt(questions);
 
-    writeToFile("README.md", response);
-  });
+  writeToFile("README.md", response);
 }
 
 // function call to initialize program
