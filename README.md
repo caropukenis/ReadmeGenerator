@@ -1,4 +1,6 @@
 # Read Me Generator
+![GIF of README.md](https://github.com/caropukenis/ReadmeGenerator/blob/master/assets/nodeShown.gif)
+
 ## Description:
 ![License](https://img.shields.io/badge/License-undefined-blue.svg "License Badge")
 This is a read me generator.
