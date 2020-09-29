@@ -1,32 +1,29 @@
+# Read Me Generator
+## Description:
+![License](https://img.shields.io/badge/License-undefined-blue.svg "License Badge")
+This is a read me generator.
 
-    # Read Me Generator
-    ## Description:
-    ![License](https://img.shields.io/badge/License-undefined-blue.svg "License Badge")
-    This is a read me generator.
+# Table of Contents
+- [Description](#description)
+- [Contributing](#contributing)
+- [Test](#tests)
+- [License](#license)
+- [Questions](#questions)
 
-    # Table of Contents
-    
-    - [Description](#description)
-    - [Contributing](#contributing)
-    - [Test](#tests)
-    - [License](#license)
-    - [Questions](#questions)
+## License:
+For more information about the license, click the link below:
+- [License](https://opensource.org/licenses/undefined)
 
-    ## License:
-    For more information about the license, click the link below:
+## Contributing:
+none
 
-    - [License](https://opensource.org/licenses/undefined)
+## Tests:
+none
 
-    ## Contributing:
-    none
+## Questions:
+For more information about the Generator, please reach out to me via my GitHub profile.
 
-    ## Tests:
-    none
+-[GitHub Profile](https://github.com/undefined)
 
-    ## Questions:
-    For more information about the Generator, please reach out to me via my GitHub profile.
-
-    -[GitHub Profile](https://github.com/undefined)
-
-    For any other questions, please send me an email at: caro_pukenis@yahoo.com.
+For any other questions, please send me an email at: caro_pukenis@yahoo.com.
   
